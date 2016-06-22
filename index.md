@@ -61,8 +61,8 @@ Can we use data collected by smartphone to predict human motions?
 <img class=center src=assets/img/uci-dataset.png height='80%'/>
 
 1. Git: http://github.com/nikolaypavlov/da-workshops-8/
-2. Zip archive: http://bit.ly/r-workshop
-3. Original: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+2. [Zip archive](https://github.com/nikolaypavlov/da-workshops-8/archive/gh-pages.zip)
+3. [Original](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ---
 ## Data Sets specs
