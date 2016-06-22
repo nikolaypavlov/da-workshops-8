@@ -195,8 +195,6 @@ Open code/model_tunning.R and try to tune hyperparams of different models
 * Which model is the best?
 
 ---
-## Course Logistic
+## We are hiring! 
 
-* Every Wednesday 19:00 - 21:00
-* Slides: http://nikolaypavlov.github.io/da-workshops-8/
-* Skype Chat: https://join.skype.com/gjN0CfAd4bhg
+### If you like Data Analysis, please drop me your CV at mykola@azzurro.io
